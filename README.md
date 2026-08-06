@@ -112,9 +112,6 @@ flutter run
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots here.
 
 Example:
 
